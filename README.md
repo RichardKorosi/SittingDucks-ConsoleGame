@@ -1,7 +1,7 @@
-# Assignment 1 - Duck hunt
+# Assignment 1 - Sitting Ducks
 B-OOP 2022
 
-Your task is to create a simplified version of the card game "Duck hunt" in the form of a console JAVA aplication.
+Your task is to create a simplified version of the card game "Sitting ducks" in the form of a console JAVA aplication.
 
 ## Game introduction
 Ducks are swimming peacefully in a pond. They have no idea that there are hunters nearby, and the hunters won't stop shooting until all the ducks are dead. Each of the hunters must protect some of the ducks and their goald is to shoot all the ducks of the other hunters.
